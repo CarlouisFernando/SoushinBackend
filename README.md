@@ -11,3 +11,9 @@ Panduan Instalasi
 4. Ketik pada terminal di vsc "composer install"
 5. ketik pada terminal di vsc "php artisan migrate"
 6. ketik pada terminal di vsc "php artisan serve"
+
+
+link video Youtube
+https://youtu.be/FISf_H22354?si=klJoEqoahWK1Z7qQ
+
+https://youtu.be/D_9OwdE8I_I?si=dfRNQ1O2fkzXHAYE
